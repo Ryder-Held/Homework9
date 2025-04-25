@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\MajorityElement\bin\Debug\net8.0\MajorityElement.exe
+C:\Users\rjhel\source\repos\MajorityElement\bin\Debug\net8.0\MajorityElement.deps.json
+C:\Users\rjhel\source\repos\MajorityElement\bin\Debug\net8.0\MajorityElement.runtimeconfig.json
+C:\Users\rjhel\source\repos\MajorityElement\bin\Debug\net8.0\MajorityElement.dll
+C:\Users\rjhel\source\repos\MajorityElement\bin\Debug\net8.0\MajorityElement.pdb
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.dll
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\refint\MajorityElement.dll
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll

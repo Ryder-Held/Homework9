@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.exe
+C:\Users\rjhel\source\repos\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.deps.json
+C:\Users\rjhel\source\repos\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.runtimeconfig.json
+C:\Users\rjhel\source\repos\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.dll
+C:\Users\rjhel\source\repos\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.pdb
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.dll
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\refint\LengthOfLastWord.dll
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.pdb
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\LengthOfLastWord\obj\Debug\net8.0\ref\LengthOfLastWord.dll

@@ -1,0 +1,14 @@
+C:\Users\rjhel\source\repos\MoveZeros\bin\Debug\net8.0\MoveZeros.exe
+C:\Users\rjhel\source\repos\MoveZeros\bin\Debug\net8.0\MoveZeros.deps.json
+C:\Users\rjhel\source\repos\MoveZeros\bin\Debug\net8.0\MoveZeros.runtimeconfig.json
+C:\Users\rjhel\source\repos\MoveZeros\bin\Debug\net8.0\MoveZeros.dll
+C:\Users\rjhel\source\repos\MoveZeros\bin\Debug\net8.0\MoveZeros.pdb
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.AssemblyInfoInputs.cache
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.AssemblyInfo.cs
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.csproj.CoreCompileInputs.cache
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.dll
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\refint\MoveZeros.dll
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.pdb
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\MoveZeros.genruntimeconfig.cache
+C:\Users\rjhel\source\repos\MoveZeros\obj\Debug\net8.0\ref\MoveZeros.dll
